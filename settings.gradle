@@ -1,0 +1,3 @@
+rootProject.name='checkCassandra'
+include 'spring-session-cassandra'
+project(':spring-session-cassandra').projectDir = new File('../spring-session-cassandra')
